@@ -1,0 +1,3 @@
+venv
+.env
+PYTHONESH_ECOMMERCE.egg-info
