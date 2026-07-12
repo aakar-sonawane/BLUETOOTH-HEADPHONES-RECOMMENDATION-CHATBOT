@@ -1,4 +1,4 @@
-# RAG-Based Product Recommendation Chatbot (Flipkart)
+# RAG-Based Product Recommendation Chatbot (Bluetooth Headphones)
 
 A Retrieval-Augmented Generation (RAG) chatbot that recommends products based on user queries, built using LangChain, AstraDB, and Groq LLM.
 
